@@ -55,7 +55,7 @@ Songbird is the canary network for Flare.
 | Inflation                   | [0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65](https://songbird-explorer.flare.network/address/0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65/contracts#address-tabs) |
 | InflationAllocation         | [0x11e8d7dcb7e7b62E6984E7fF29C736A8fA857c11](https://songbird-explorer.flare.network/address/0x11e8d7dcb7e7b62E6984E7fF29C736A8fA857c11/contracts#address-tabs) |
 | PollingFoundation           | [0x725cd5E69388515029BCBF9F8aE2cc47f397CD64](https://songbird-explorer.flare.network/address/0x725cd5E69388515029BCBF9F8aE2cc47f397CD64/contracts#address-tabs) |
-| PollingFtso                 | [0x790525B93Fa4BFd3A586b68C5F41c113645f8AF6](https://songbird-explorer.flare.network/address/0x4ea19A89689ef82DdF02022DE03757A18bA2C4ef/contracts#address-tabs) |
+| PollingFtso                 | [0x790525B93Fa4BFd3A586b68C5F41c113645f8AF6](https://songbird-explorer.flare.network/address/0x790525B93Fa4BFd3A586b68C5F41c113645f8AF6/contracts#address-tabs) |
 | Relay                       | [0xbA35e39D01A3f5710d1e43FC61dbb738B68641c4](https://songbird-explorer.flare.network/address/0xbA35e39D01A3f5710d1e43FC61dbb738B68641c4/contracts#address-tabs) |
 | RewardManager               | [0x8A80583BD5A5Cd8f68De585163259D61Ea8dc904](https://songbird-explorer.flare.network/address/0x8A80583BD5A5Cd8f68De585163259D61Ea8dc904/contracts#address-tabs) |
 | Submission                  | [0x2cA6571Daa15ce734Bbd0Bf27D5C9D16787fc33f](https://songbird-explorer.flare.network/address/0x2cA6571Daa15ce734Bbd0Bf27D5C9D16787fc33f/contracts#address-tabs) |
