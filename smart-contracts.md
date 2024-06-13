@@ -13,7 +13,6 @@
 | Escrow                          | [0x42A362eE27e239c17d97DA5765D052779AcfDC94](https://flare-explorer.flare.network/address/0x42A362eE27e239c17d97DA5765D052779AcfDC94/contracts#address-tabs) |
 | FlareContractRegistry           | [0xaD67FE66660Fb8dFE9d6b1b4240d8650e30F6019](https://flare-explorer.flare.network/address/0xaD67FE66660Fb8dFE9d6b1b4240d8650e30F6019/contracts#address-tabs) |
 | FlareDaemon                     | [0x1000000000000000000000000000000000000002](https://flare-explorer.flare.network/address/0x1000000000000000000000000000000000000002/contracts#address-tabs) |
-| FtsoRewardManager               | [0x85627d71921AE25769f5370E482AdA5E1e418d37](https://flare-explorer.flare.network/address/0x85627d71921AE25769f5370E482AdA5E1e418d37/contracts#address-tabs) |
 | GovernanceSettings              | [0x1000000000000000000000000000000000000007](https://flare-explorer.flare.network/address/0x1000000000000000000000000000000000000007/contracts#address-tabs) |
 | GovernanceVotePower             | [0x95eD14840d3A1C75b8629Ae5599fe55270C51e04](https://flare-explorer.flare.network/address/0x95eD14840d3A1C75b8629Ae5599fe55270C51e04/contracts#address-tabs) |
 | IncentivePool                   | [0xbcE1972De5d1598a948A36186eCeBFD4690F3a5C](https://flare-explorer.flare.network/address/0xbcE1972De5d1598a948A36186eCeBFD4690F3a5C/contracts#address-tabs) |
@@ -40,7 +39,6 @@ Songbird is the canary network for Flare.
 | DelegationAccount           | [0x3546ea8647a79f4F628Ae9dc68e5eADd3DacC39B](https://songbird-explorer.flare.network/address/0x3546ea8647a79f4F628Ae9dc68e5eADd3DacC39B/contracts#address-tabs) |
 | FlareContractRegistry       | [0xaD67FE66660Fb8dFE9d6b1b4240d8650e30F6019](https://songbird-explorer.flare.network/address/0xaD67FE66660Fb8dFE9d6b1b4240d8650e30F6019/contracts#address-tabs) |
 | FlareDaemon                 | [0x1000000000000000000000000000000000000002](https://songbird-explorer.flare.network/address/0x1000000000000000000000000000000000000002/contracts#address-tabs) |
-| FtsoRewardManager           | [0x13F7866568dC476cC3522d17C23C35FEDc1431C5](https://songbird-explorer.flare.network/address/0x13F7866568dC476cC3522d17C23C35FEDc1431C5/contracts#address-tabs) |
 | GovernanceSettings          | [0x183fAfF6997C98A812A3B98748Fc80241D08f312](https://songbird-explorer.flare.network/address/0x183fAfF6997C98A812A3B98748Fc80241D08f312/contracts#address-tabs) |
 | GovernanceVotePower         | [0xC5F28A768eE12f46d82C7C5b3D94C97Da498157C](https://songbird-explorer.flare.network/address/0xC5F28A768eE12f46d82C7C5b3D94C97Da498157C/contracts#address-tabs) |
 | Inflation                   | [0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65](https://songbird-explorer.flare.network/address/0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65/contracts#address-tabs) |
