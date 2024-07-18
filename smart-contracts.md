@@ -23,8 +23,6 @@
 | PChainStakeMirror               | [0x7b61F9F27153a4F2F57Dc30bF08A8eb0cCB96C22](https://flare-explorer.flare.network/address/0x7b61F9F27153a4F2F57Dc30bF08A8eb0cCB96C22/contracts#address-tabs) |
 | PChainStakeMirrorMultiSigVoting | [0x12b3079D5b65a17EFD1665d9731FB0Adb46F14e4](https://flare-explorer.flare.network/address/0x12b3079D5b65a17EFD1665d9731FB0Adb46F14e4/contracts#address-tabs) |
 | PChainStakeMirrorVerifier       | [0x004fb0fabEaF988EBec7098872031175301246a2](https://flare-explorer.flare.network/address/0x004fb0fabEaF988EBec7098872031175301246a2/contracts#address-tabs) |
-| PollingFoundation               | [0x258E20bdbb2d891521308d2af381B1BD962B67B5](https://flare-explorer.flare.network/address/0x258E20bdbb2d891521308d2af381B1BD962B67B5/contracts#address-tabs) |
-| PollingFtso                     | [0x461c4219d5fcAF0fEA304F57a4b0f8061f08064A](https://flare-explorer.flare.network/address/0x461c4219d5fcAF0fEA304F57a4b0f8061f08064A/contracts#address-tabs) |
 | Supply                          | [0x8577D2D50827bCE2EC1dc9Cf9F1199826781D5AF](https://flare-explorer.flare.network/address/0x8577D2D50827bCE2EC1dc9Cf9F1199826781D5AF/contracts#address-tabs) |
 | ValidatorRewardManager          | [0xc0CF3Aaf93bd978C5BC662564Aa73E331f2eC0B5](https://flare-explorer.flare.network/address/0xc0CF3Aaf93bd978C5BC662564Aa73E331f2eC0B5/contracts#address-tabs) |
 | WNat                            | [0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d](https://flare-explorer.flare.network/address/0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d/contracts#address-tabs) |
@@ -43,7 +41,5 @@ Songbird is the canary network for Flare.
 | GovernanceVotePower         | [0xC5F28A768eE12f46d82C7C5b3D94C97Da498157C](https://songbird-explorer.flare.network/address/0xC5F28A768eE12f46d82C7C5b3D94C97Da498157C/contracts#address-tabs) |
 | Inflation                   | [0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65](https://songbird-explorer.flare.network/address/0x7174961ffCe87744d2f1a25B6d75Cf780Ec6Fd65/contracts#address-tabs) |
 | InflationAllocation         | [0x11e8d7dcb7e7b62E6984E7fF29C736A8fA857c11](https://songbird-explorer.flare.network/address/0x11e8d7dcb7e7b62E6984E7fF29C736A8fA857c11/contracts#address-tabs) |
-| PollingFoundation           | [0x725cd5E69388515029BCBF9F8aE2cc47f397CD64](https://songbird-explorer.flare.network/address/0x725cd5E69388515029BCBF9F8aE2cc47f397CD64/contracts#address-tabs) |
-| PollingFtso                 | [0x790525B93Fa4BFd3A586b68C5F41c113645f8AF6](https://songbird-explorer.flare.network/address/0x790525B93Fa4BFd3A586b68C5F41c113645f8AF6/contracts#address-tabs) |
 | Supply                      | [0x9dCf773832BD2994B2367801BFbd3969630b1781](https://songbird-explorer.flare.network/address/0x9dCf773832BD2994B2367801BFbd3969630b1781/contracts#address-tabs) |
 | WNat                        | [0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED](https://songbird-explorer.flare.network/address/0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED/contracts#address-tabs) |
