@@ -55,6 +55,7 @@
 | FtsoV2                          | [0xB18d3A5e5A85C65cE47f977D7F486B79F99D3d32](https://flare-explorer.flare.network/address/0xB18d3A5e5A85C65cE47f977D7F486B79F99D3d32?tab=contract_code) |
 | PriceSubmitterProxy             | [0x40bE9271F3a765Ce46fd2B6ddf19dCDf29948548](https://flare-explorer.flare.network/address/0x40bE9271F3a765Ce46fd2B6ddf19dCDf29948548?tab=contract_code) |
 | VoterWhitelisterProxy           | [0x29D476f267d28891595c546adaaf5b85E8F0BfBe](https://flare-explorer.flare.network/address/0x29D476f267d28891595c546adaaf5b85E8F0BfBe?tab=contract_code) |
+| FdcHub                          | [0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44](https://flare-explorer.flare.network/address/0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44?tab=contract)      |
 
 
 
@@ -99,3 +100,5 @@ Songbird is the canary network for Flare.
 | FtsoV2                      | [0x988C99423360C93F334f6F331Aa8A55cfFEd34B5](https://songbird-explorer.flare.network/address/0x988C99423360C93F334f6F331Aa8A55cfFEd34B5?tab=contract_code) |
 | PriceSubmitterProxy         | [0x155513345E3fe9A0aa8B0BeF156b1576C39f0f3C](https://songbird-explorer.flare.network/address/0x155513345E3fe9A0aa8B0BeF156b1576C39f0f3C?tab=contract_code) |
 | VoterWhitelisterProxy       | [0xEfF0A449290763a95ee33a6A108F5B0b1Ea06bE9](https://songbird-explorer.flare.network/address/0xEfF0A449290763a95ee33a6A108F5B0b1Ea06bE9?tab=contract_code) |
+| FdcHub                      | [0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06](https://songbird-explorer.flare.network/address/0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06?tab=contract)      |
+
