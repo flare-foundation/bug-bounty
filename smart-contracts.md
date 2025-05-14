@@ -36,7 +36,7 @@
 | FlareSystemsManager             | [0x89e50DC0380e597ecE79c8494bAAFD84537AD0D4](https://flare-explorer.flare.network/address/0x89e50DC0380e597ecE79c8494bAAFD84537AD0D4?tab=contract_code) |
 | RewardManager                   | [0xC8f55c5aA2C752eE285Bd872855C749f4ee6239B](https://flare-explorer.flare.network/address/0xC8f55c5aA2C752eE285Bd872855C749f4ee6239B?tab=contract_code) |
 | FtsoRewardManagerProxy          | [0xA0FF992E0b33DBdC577e488Dc917a042F7B42875](https://flare-explorer.flare.network/address/0xA0FF992E0b33DBdC577e488Dc917a042F7B42875?tab=contract_code) |
-| Relay                           | [0xea077600E3065F4FAd7161a6D0977741f2618eec](https://flare-explorer.flare.network/address/0xea077600E3065F4FAd7161a6D0977741f2618eec?tab=contract_code) |
+| Relay                           | [0x57a4c3676d08Aa5d15410b5A6A80fBcEF72f3F45](https://flare-explorer.flare.network/address/0x57a4c3676d08Aa5d15410b5A6A80fBcEF72f3F45?tab=contract_code) |
 | WNatDelegationFee               | [0xb382DC86C06f91ef711703a582D08977b2601726](https://flare-explorer.flare.network/address/0xb382DC86C06f91ef711703a582D08977b2601726?tab=contract_code) |
 | FtsoInflationConfigurations     | [0xc8f3BBFbAb36838a80789CF116B8cF827430E6c7](https://flare-explorer.flare.network/address/0xc8f3BBFbAb36838a80789CF116B8cF827430E6c7?tab=contract_code) |
 | FtsoRewardOffersManager         | [0x244EA7f173895968128D5847Df2C75B1460ac685](https://flare-explorer.flare.network/address/0x244EA7f173895968128D5847Df2C75B1460ac685?tab=contract_code) |
@@ -44,7 +44,7 @@
 | FtsoFeedPublisher               | [0x91fe21970754FAf858B976DC93c3Aa2cE7848571](https://flare-explorer.flare.network/address/0x91fe21970754FAf858B976DC93c3Aa2cE7848571?tab=contract_code) |
 | FtsoFeedIdConverter             | [0xafEa60cabb2daB413D17b85Db82cCf6EB06a0F66](https://flare-explorer.flare.network/address/0xafEa60cabb2daB413D17b85Db82cCf6EB06a0F66?tab=contract_code) |
 | PollingFoundation               | [0xc8294a2335C6c45de827121090ce4Ba9977907D2](https://flare-explorer.flare.network/address/0xc8294a2335C6c45de827121090ce4Ba9977907D2?tab=contract_code) |
-| PollingFtso                     | [0xbB907038933d0711e9018C9DC31121C146F2A5a0](https://flare-explorer.flare.network/address/0xbB907038933d0711e9018C9DC31121C146F2A5a0?tab=contract_code) |
+| PollingManagementGroup          | [0x55233A9Ed066621e02b166C416f804b04ee4a03a](https://flare-explorer.flare.network/address/0x55233A9Ed066621e02b166C416f804b04ee4a03a?tab=contract_code) |
 | ValidatorRewardOffersManager    | [0xaCEC47042DE9E4645401e828f6b445605841Fd52](https://flare-explorer.flare.network/address/0xaCEC47042DE9E4645401e828f6b445605841Fd52?tab=contract_code) |
 | FastUpdateIncentiveManager      | [0xd648e8ACA486Ce876D641A0F53ED1F2E9eF4885D](https://flare-explorer.flare.network/address/0xd648e8ACA486Ce876D641A0F53ED1F2E9eF4885D?tab=contract_code) |
 | FastUpdatesConfiguration        | [0xD9B6fB7F49C13C1448d0DEF4E83aFECf8E8778C8](https://flare-explorer.flare.network/address/0xD9B6fB7F49C13C1448d0DEF4E83aFECf8E8778C8?tab=contract_code) |
@@ -52,11 +52,15 @@
 | FeeCalculator                   | [0xFDe4f89E6d67ec1a497e1c25944ba5D2d7a36bf3](https://flare-explorer.flare.network/address/0xFDe4f89E6d67ec1a497e1c25944ba5D2d7a36bf3?tab=contract_code) |
 | FtsoManagerProxy                | [0xEFF4283630917cC7902fF14032527Ba46581Be14](https://flare-explorer.flare.network/address/0xEFF4283630917cC7902fF14032527Ba46581Be14?tab=contract_code) |
 | FtsoProxy                       | [0xc524491f34687a15469d2b8158E94f6e2bCf9938](https://flare-explorer.flare.network/address/0xc524491f34687a15469d2b8158E94f6e2bCf9938?tab=contract_code) |
-| FtsoV2                          | [0xB18d3A5e5A85C65cE47f977D7F486B79F99D3d32](https://flare-explorer.flare.network/address/0xB18d3A5e5A85C65cE47f977D7F486B79F99D3d32?tab=contract_code) |
+| FtsoV2                          | [0x7BDE3Df0624114eDB3A67dFe6753e62f4e7c1d20](https://flare-explorer.flare.network/address/0x7BDE3Df0624114eDB3A67dFe6753e62f4e7c1d20?tab=contract_code) |
+| FtsoProxy                       | [0xc524491f34687a15469d2b8158E94f6e2bCf9938](https://flare-explorer.flare.network/address/0xc524491f34687a15469d2b8158E94f6e2bCf9938?tab=contract_code) |
 | PriceSubmitterProxy             | [0x40bE9271F3a765Ce46fd2B6ddf19dCDf29948548](https://flare-explorer.flare.network/address/0x40bE9271F3a765Ce46fd2B6ddf19dCDf29948548?tab=contract_code) |
-| VoterWhitelisterProxy           | [0x29D476f267d28891595c546adaaf5b85E8F0BfBe](https://flare-explorer.flare.network/address/0x29D476f267d28891595c546adaaf5b85E8F0BfBe?tab=contract_code) |
-| FdcHub                          | [0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44](https://flare-explorer.flare.network/address/0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44?tab=contract)      |
-
+| VoterPreRegistry                | [0xeFDBf6F31Aa46c62414Aee82aF43036d16885b48](https://flare-explorer.flare.network/address/0xeFDBf6F31Aa46c62414Aee82aF43036d16885b48?tab=contract_code) |
+| FdcHub                          | [0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44](https://flare-explorer.flare.network/address/0xc25c749DC27Efb1864Cb3DADa8845B7687eB2d44?tab=contract_code) |
+| FdcInflationConfigurations      | [0x7F17B5FcbEEEcD9Af1Fc48cDec29F5bE724F6ab2](https://flare-explorer.flare.network/address/0x7F17B5FcbEEEcD9Af1Fc48cDec29F5bE724F6ab2?tab=contract_code) |
+| FdcRequestFeeConfigurations     | [0x259852Ae6d5085bDc0650D3887825f7b76F0c4fe](https://flare-explorer.flare.network/address/0x259852Ae6d5085bDc0650D3887825f7b76F0c4fe?tab=contract_code) |
+| FdcVerification                 | [0x9394c7A36b3Da8de1b4F27cdD0a554dA4Fa7132d](https://flare-explorer.flare.network/address/0x9394c7A36b3Da8de1b4F27cdD0a554dA4Fa7132d?tab=contract_code) |
+| SFlrCustomFeed                  | [0xD1002F3820ad32145b868aD889eC7753E3944c8D](https://flare-explorer.flare.network/address/0xD1002F3820ad32145b868aD889eC7753E3944c8D?tab=contract_code) |
 
 
 ## Songbird
@@ -85,7 +89,7 @@ Songbird is the canary network for Flare.
 | WNatDelegationFee           | [0x3499a6D765640F8D35538cF0a292BcA38504353C](https://songbird-explorer.flare.network/address/0x3499a6D765640F8D35538cF0a292BcA38504353C?tab=contract_code) |
 | FtsoInflationConfigurations | [0xedCC74C6Dac98abB2F658D8cF6112D6B53B0E78D](https://songbird-explorer.flare.network/address/0xedCC74C6Dac98abB2F658D8cF6112D6B53B0E78D?tab=contract_code) |
 | FtsoRewardOffersManager     | [0x5aB9cB258a342001C4663D9526A1c54cCcF8C545](https://songbird-explorer.flare.network/address/0x5aB9cB258a342001C4663D9526A1c54cCcF8C545?tab=contract_code) |
-| FtsoFeedDecimals            | [0x681C1Bc09b64e8e0EEa9d40E480B08Ab6c3FeCE3](https://songbird-explorer.flare.network/address/0x681C1Bc09b64e8e0EEa9d40E480B08Ab6c3FeCE3?tab=contract_code) |
+| FtsoFeedDecimals            | [0x9391f16c2034CCe3cC139e9eE30E080EF524D4a9](https://songbird-explorer.flare.network/address/0x9391f16c2034CCe3cC139e9eE30E080EF524D4a9?tab=contract_code) |
 | FtsoFeedPublisher           | [0xD29D1AE96c5D505Bcf886d38C9DC0358b326E458](https://songbird-explorer.flare.network/address/0xD29D1AE96c5D505Bcf886d38C9DC0358b326E458?tab=contract_code) |
 | FtsoFeedIdConverter         | [0x9c20c3F1fC39F14ad0D09DE91B74a16c12a36C61](https://songbird-explorer.flare.network/address/0x9c20c3F1fC39F14ad0D09DE91B74a16c12a36C61?tab=contract_code) |
 | FastUpdateIncentiveManager  | [0x596C70Ad6fFFdb9b6158F1Dfd0bc32cc72B82006](https://songbird-explorer.flare.network/address/0x596C70Ad6fFFdb9b6158F1Dfd0bc32cc72B82006?tab=contract_code) |
@@ -93,12 +97,15 @@ Songbird is the canary network for Flare.
 | FastUpdatesConfiguration    | [0x8D48a67e11CdB821C38c85FB92bcB3A1865aCEdF](https://songbird-explorer.flare.network/address/0x8D48a67e11CdB821C38c85FB92bcB3A1865aCEdF?tab=contract_code) |
 | FtsoRewardManagerProxy      | [0x1643299dBBb36E3E1AC26a7FeBC3F97382bDCfa5](https://songbird-explorer.flare.network/address/0x1643299dBBb36E3E1AC26a7FeBC3F97382bDCfa5?tab=contract_code) |
 | PollingFoundation           | [0x79Df47237292Dbd1477502CFF3F61cD535B0FAce](https://songbird-explorer.flare.network/address/0x79Df47237292Dbd1477502CFF3F61cD535B0FAce?tab=contract_code) |
-| PollingFtso                 | [0x6A4707d6ac8a029705f17B1653AFC3c2D9933E1e](https://songbird-explorer.flare.network/address/0x6A4707d6ac8a029705f17B1653AFC3c2D9933E1e?tab=contract_code) |
 | FeeCalculator               | [0x850580df526112CCe4B7FC135919BaE3a923b845](https://songbird-explorer.flare.network/address/0x850580df526112CCe4B7FC135919BaE3a923b845?tab=contract_code) |
 | FtsoManagerProxy            | [0xf4c4B9334F794076A7E7F5Da50da3990Ac8236c9](https://songbird-explorer.flare.network/address/0xf4c4B9334F794076A7E7F5Da50da3990Ac8236c9?tab=contract_code) |
 | FtsoProxy                   | [0xB4cdBAE0885F8fe3Ac095f87D535928FcaBd3834](https://songbird-explorer.flare.network/address/0xB4cdBAE0885F8fe3Ac095f87D535928FcaBd3834?tab=contract_code) |
-| FtsoV2                      | [0x988C99423360C93F334f6F331Aa8A55cfFEd34B5](https://songbird-explorer.flare.network/address/0x988C99423360C93F334f6F331Aa8A55cfFEd34B5?tab=contract_code) |
+| FtsoV2                      | [0x5878D57Ff2BC773355aEd2831D8dF29AC72Ca0f6](https://songbird-explorer.flare.network/address/0x5878D57Ff2BC773355aEd2831D8dF29AC72Ca0f6?tab=contract_code) |
+| FtsoV2Proxy                 | [0x510600336247303f9dAA337eC7E82D1F11462Ec8](https://songbird-explorer.flare.network/address/0x510600336247303f9dAA337eC7E82D1F11462Ec8?tab=contract_code) |
+| PollingManagementGroup      | [0x35C55F281B1945aE7ddDb4F1D24f41470aB0326c](https://songbird-explorer.flare.network/address/0x35C55F281B1945aE7ddDb4F1D24f41470aB0326c?tab=contract_code) |
 | PriceSubmitterProxy         | [0x155513345E3fe9A0aa8B0BeF156b1576C39f0f3C](https://songbird-explorer.flare.network/address/0x155513345E3fe9A0aa8B0BeF156b1576C39f0f3C?tab=contract_code) |
-| VoterWhitelisterProxy       | [0xEfF0A449290763a95ee33a6A108F5B0b1Ea06bE9](https://songbird-explorer.flare.network/address/0xEfF0A449290763a95ee33a6A108F5B0b1Ea06bE9?tab=contract_code) |
-| FdcHub                      | [0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06](https://songbird-explorer.flare.network/address/0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06?tab=contract)      |
-
+| VoterPreRegistry            | [0x9Ba9A142FD5B2953667B03dB40D1d77c83F225a2](https://songbird-explorer.flare.network/address/0x9Ba9A142FD5B2953667B03dB40D1d77c83F225a2?tab=contract_code) |
+| FdcHub                      | [0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06](https://songbird-explorer.flare.network/address/0xCfD4669a505A70c2cE85db8A1c1d14BcDE5a1a06?tab=contract_code) |
+| FdcInflationConfigurations  | [0x2766f9927748Ef59aeC95B4777CcF29a77d35191](https://songbird-explorer.flare.network/address/0x2766f9927748Ef59aeC95B4777CcF29a77d35191?tab=contract_code) |
+| FdcRequestFeeConfigurations | [0x8998a3b85350aA4CA5f55cD80ab1f7C9C0ddf02C](https://songbird-explorer.flare.network/address/0x8998a3b85350aA4CA5f55cD80ab1f7C9C0ddf02C?tab=contract_code) |
+| FdcVerification             | [0xd283afC5A67E2d4Bc700b5B640328Bda22450621](https://songbird-explorer.flare.network/address/0xd283afC5A67E2d4Bc700b5B640328Bda22450621?tab=contract_code) |
